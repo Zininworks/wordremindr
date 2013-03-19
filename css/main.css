@@ -387,6 +387,11 @@ img.sideBySide{
 	width: 500px;
 }
 
+img.bigCenter {
+	display: block;
+	width: 100%;
+}
+
 hr.sectionDevider{
 	margin: 50px 0;
 }
